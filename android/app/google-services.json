@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917156704170",
+    "project_id": "meraki-8800b",
+    "storage_bucket": "meraki-8800b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917156704170:android:0e993ed0e4194cb069c5d3",
+        "android_client_info": {
+          "package_name": "com.sarthak.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917156704170-lbhfoe3ksjc2dvvhhumteem1906esu0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmclvZo5r4m2k-CNXT0VZcOeXTrzV9ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917156704170-lbhfoe3ksjc2dvvhhumteem1906esu0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
